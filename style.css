@@ -393,6 +393,9 @@ section.skills .item .progress-bar .progress{
     background: var(--color-primary);
 }
 /***************front end section****************/
+section.skills .item:nth-child(1) .progress-bar .progress{
+    width: 95%;
+}
 section.skills .item:nth-child(2) .progress-bar .progress{
     width: 90%;
 }
@@ -438,7 +441,7 @@ section.skills .skillSection2 .item:nth-child(3) .progress-bar .progress{
     width: 50%;
 }
 section.skills .skillSection2 .item:nth-child(4) .progress-bar .progress{
-    width: 73%;
+    width: 75%;
 }
 section.skills .skillSection2 .item:nth-child(5) .progress-bar .progress{
     width: 75%;
