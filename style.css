@@ -403,44 +403,77 @@ section.skills .item:nth-child(4) .progress-bar .progress{
     width: 80%;
 }
 section.skills .item:nth-child(5) .progress-bar .progress{
-    width: 60%;
+    width: 80%;
 }
 section.skills .item:nth-child(6) .progress-bar .progress{
-    width: 90%;
+    width: 60%;
 }
 section.skills .item:nth-child(7) .progress-bar .progress{
-    width: 75%;
+    width: 90%;
 }
 section.skills .item:nth-child(8) .progress-bar .progress{
     width: 75%;
 }
 
+section.skills .item:nth-child(9) .progress-bar .progress{
+    width: 85%;
+}
+
+section.skills .item:nth-child(10) .progress-bar .progress{
+    width: 80%;
+}
+
 
 /*************back end section*************/
 section.skills .skillSection2 .item .progress-bar .progress{
-    width: 80%;
+    width: 50%;
 }
 section.skills .skillSection2 .item:nth-child(1) .progress-bar .progress{
-    width: 75%;
+    width: 50%;
 }
 section.skills .skillSection2 .item:nth-child(2) .progress-bar .progress{
+    width: 50%;
+}
+section.skills .skillSection2 .item:nth-child(3) .progress-bar .progress{
+    width: 50%;
+}
+section.skills .skillSection2 .item:nth-child(4) .progress-bar .progress{
     width: 73%;
 }
-
-/***************extra section*********************/
-section.skills .skillSection3 .item .progress-bar .progress{
+section.skills .skillSection2 .item:nth-child(5) .progress-bar .progress{
     width: 75%;
 }
-section.skills .skillSection3 .item:nth-child(1) .progress-bar .progress{
+section.skills .skillSection2 .item:nth-child(6) .progress-bar .progress{
+    width: 70%;
+}
+section.skills .skillSection2 .item:nth-child(7) .progress-bar .progress{
     width: 60%;
+}
+section.skills .skillSection2 .item:nth-child(8) .progress-bar .progress{
+    width: 60%;
+}
+/***************extra section*********************/
+section.skills .skillSection3 .item .progress-bar .progress{
+    width: 0%;
+}
+section.skills .skillSection3 .item:nth-child(1) .progress-bar .progress{
+    width: 75%;
 }
 section.skills .skillSection3 .item:nth-child(2) .progress-bar .progress{
-    width: 65%;
+    width: 80%;
 }
 section.skills .skillSection3 .item:nth-child(3) .progress-bar .progress{
+    width: 70%;
+}
+section.skills .skillSection3 .item:nth-child(4) .progress-bar .progress{
+    width: 80%;
+}
+section.skills .skillSection3 .item:nth-child(5) .progress-bar .progress{
     width: 60%;
 }
-
+section.skills .skillSection3 .item:nth-child(6) .progress-bar .progress{
+    width: 60%;
+}
 /*************works section*************/
 
 section.recent-work h1{
