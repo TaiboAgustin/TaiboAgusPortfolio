@@ -437,16 +437,16 @@ section.skills .skillSection2 .item:nth-child(2) .progress-bar .progress{
     width: 50%;
 }
 section.skills .skillSection2 .item:nth-child(3) .progress-bar .progress{
-    width: 50%;
+    width: 80%;
 }
 section.skills .skillSection2 .item:nth-child(4) .progress-bar .progress{
-    width: 75%;
+    width: 80%;
 }
 section.skills .skillSection2 .item:nth-child(5) .progress-bar .progress{
-    width: 75%;
+    width: 70%;
 }
 section.skills .skillSection2 .item:nth-child(6) .progress-bar .progress{
-    width: 70%;
+    width: 80%;
 }
 section.skills .skillSection2 .item:nth-child(7) .progress-bar .progress{
     width: 60%;
